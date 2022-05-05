@@ -1,2 +1,3 @@
-# hello_world
-Get to know me!
+# hello_world, I'm Rafał 
+
+
